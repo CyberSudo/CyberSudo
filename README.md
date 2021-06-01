@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Automation Project
 - 📫 How to reach me ---> [https://twitter.com/bder1286]
 ---
-======================================
+
 ### Connect with me:
 
 [<img align="left" alt="CS" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -23,7 +23,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Gatsby" width="26px" src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" />]
+[<img align="left" alt="Python" width="26px" src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" />]
 
 <br />
 <br />
