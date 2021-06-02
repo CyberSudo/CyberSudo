@@ -47,7 +47,7 @@
 </details>
 ---
 
-![CyberSudo GitHub stats](https://stats-cybersudo.vercel.app/api?username=CyberSudo&show_icons=true&theme=radical)
+![CyberSudo GitHub stats](https://stats-azure.vercel.app/api?username=CyberSudo&show_icons=true&theme=radical)
 
 
 
