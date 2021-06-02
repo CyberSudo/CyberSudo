@@ -44,8 +44,12 @@
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
+</details>
 ---
+![CyberSudo GitHub stats](https://stats-cybersudo.vercel.app/api?username=CyberSudo&show_icons=true&theme=radical)
+
+
+
 
 [website]: https://google.com
 [twitter]: https://twitter.com/bder1286
