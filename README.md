@@ -33,6 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to get Paid Udemy Courses While you Sleep | For Free!!](https://www.youtube.com/watch?v=tst0Qnq-23E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
