@@ -33,6 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to save a page in notion as A PDF](https://www.youtube.com/watch?v=mnUlSAEr_WA)
 - [How to Get Paid Udemy Courses While you Sleep | For Free!! - (review)](https://www.youtube.com/watch?v=tst0Qnq-23E)
 <!-- YOUTUBE:END -->
 
