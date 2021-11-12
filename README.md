@@ -33,6 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Customize Your Icons in Windows 10](https://www.youtube.com/watch?v=mGcUEofCX_k)
 - [How to fix screen turn completely white in render view when using Blender 2.8 eevee](https://www.youtube.com/watch?v=6x5GPPkqSBo)
 - [How to Disable the News and Interests Widget on the Windows 10 Taskbar](https://www.youtube.com/watch?v=bPdE6SqzpXk)
 - [How to save a page in notion as A PDF](https://www.youtube.com/watch?v=mnUlSAEr_WA)
